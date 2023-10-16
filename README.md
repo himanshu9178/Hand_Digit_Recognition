@@ -1,5 +1,6 @@
 ![image](https://github.com/himanshu9178/Hand_Digit_Recognition_using_CNN/assets/118620631/26c65e5d-0f03-4af9-ab4f-b60caa273d6f)
 
+
 # HAND DIGIT RECOGNITION
  [The Paper.pdf](https://github.com/himanshu9178/Hand_Digit_Recognition_using_CNN/files/12322628/The.Paper.pdf)
 
